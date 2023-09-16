@@ -28,6 +28,10 @@
 
 [https://course-registration-platform.vercel.app/](https://course-registration-platform.vercel.app/)
 
+<p align="center"><img src="https://socialify.git.ci/NabilKuppu/Course-Registration-pro/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+
+<p align="center"><img src="https://img.shields.io/github/license/:user/:repo" alt="shields"></p>
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Script of create react app through vite</p>
