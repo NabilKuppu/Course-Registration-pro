@@ -98,3 +98,7 @@ Technologies used in the project:
 - sweetalert2
 - react-icons
 - prop-types
+
+## License
+
+MIT
